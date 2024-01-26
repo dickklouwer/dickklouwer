@@ -1,8 +1,8 @@
 ### Hi There! 👋 
 ###         My name is Dick Klouwer
 
-- 🧑🏼‍💻 I’m currently working on the Webserv Project at Codam Coding College (42 Network).
-- 🌱 I’m currently learning to become a Software Developer. Particular interest in Fintech && Blockchain && C++
+- 🧑🏼‍💻 I’m currently working on the Webserv Project at Codam Coding College in Amsterdam (42 Network).
+- 🌱 I’m currently learning to become a Software Developer. Particular interest in Fintech, Blockchain & C++
 - 📫 How to reach me: dickklouwer@icloud.com
 - 🧘🏼‍♂️ Fun fact: My spiritual name is "Agamveer", Wahe Guru!
 
